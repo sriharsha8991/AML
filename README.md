@@ -1,6 +1,6 @@
 > # Tensor_flow_practice
 > #### Image Classification using TensorFlow on the MNIST Dataset 
-![image](https://user-images.githubusercontent.com/91383946/219847025-ac648d86-15cb-4854-96d5-c349e6607324.png)
+
 
 In this project, we explore image classification using TensorFlow on the Fashion-MNIST dataset. The Fashion-MNIST dataset is a collection of grayscale images of 10 different categories of clothing items, and is commonly used to benchmark image classification algorithms.
 
@@ -17,6 +17,7 @@ The Fashion-MNIST dataset is a popular dataset for image classification tasks. I
 * Sneaker
 * Bag
 * Ankle boot
+![image](https://user-images.githubusercontent.com/91383946/219847025-ac648d86-15cb-4854-96d5-c349e6607324.png)
 
 > #### Training and Evaluation
 The TensorFlow library was used to train a deep neural network on the Fashion-MNIST dataset. The neural network consists of several layers of convolutional and pooling operations, followed by several fully connected layers. The model was trained on the training set and evaluated on the test set. The accuracy of the model was measured using the classification accuracy metric.
