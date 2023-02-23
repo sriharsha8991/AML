@@ -17,6 +17,7 @@ The Fashion-MNIST dataset is a popular dataset for image classification tasks. I
 * Sneaker
 * Bag
 * Ankle boot
+
 ![image](https://user-images.githubusercontent.com/91383946/219847025-ac648d86-15cb-4854-96d5-c349e6607324.png)
 
 > #### Training and Evaluation
