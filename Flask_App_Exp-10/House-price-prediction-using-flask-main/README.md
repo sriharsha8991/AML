@@ -28,7 +28,8 @@ python app.py
 <br>
 
 ### After Page Update:
-<img src=
+<img src= 'https://github.com/sriharsha8991/AML/blob/main/Flask_App_Exp-10/House-price-prediction-using-flask-main/WhatsApp%20Image%202023-05-04%20at%2022.48.11.jpg'></img>
+<br>
 
 ## License
 MIT License
