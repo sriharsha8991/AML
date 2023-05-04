@@ -26,9 +26,9 @@ python app.py
 <img src='https://github.com/JafirDon/House-price-prediction-using-flask/blob/main/static/images/form.png'></img>
 <br>
 <br>
-<img src='https://github.com/JafirDon/House-price-prediction-using-flask/blob/main/static/images/prediction.png'></img>
-<br>
-<br>
+
+### After Page Update:
+<img src=
 
 ## License
 MIT License
