@@ -1,0 +1,9 @@
+# Experiment 6 Comparision 
+
+Based on the accuracy results From previous experiment, it appears that the Random Forest algorithm is performing better than the Decision Tree and MLP Classifier algorithms for the given dataset.
+
+The Random Forest algorithm has an accuracy of 89.6%, which is the highest among the three algorithms. This indicates that the Random Forest model is able to generalize well and is able to accurately predict the target variable on new and unseen data.
+
+The Decision Tree algorithm has an accuracy of 85%, which is also decent, but lower than the Random Forest model. Decision Tree models tend to overfit the training data and may not generalize well on new data. Therefore, the accuracy of the Decision Tree model may decrease on new and unseen data.
+
+The MLP Classifier algorithm has the lowest accuracy of 58%. This suggests that the neural network is not able to capture the underlying patterns and relationships in the data as effectively as the other two algorithms. It is possible that the neural network needs more layers or different hyperparameters to improve its performance.
